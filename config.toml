@@ -1,0 +1,4 @@
+baseURL = 'https://johndec.github.io'
+languageCode = 'en-us'
+title = 'Callosum'
+theme = 'terminal'
